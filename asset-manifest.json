@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4a26ed4.chunk.css",
+    "main.js": "/static/js/main.2830e9f7.chunk.js",
+    "main.js.map": "/static/js/main.2830e9f7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.714ae579.js",
+    "runtime-main.js.map": "/static/js/runtime-main.714ae579.js.map",
+    "static/css/2.353fb4fb.chunk.css": "/static/css/2.353fb4fb.chunk.css",
+    "static/js/2.541cf760.chunk.js": "/static/js/2.541cf760.chunk.js",
+    "static/js/2.541cf760.chunk.js.map": "/static/js/2.541cf760.chunk.js.map",
+    "static/js/3.68b6650f.chunk.js": "/static/js/3.68b6650f.chunk.js",
+    "static/js/3.68b6650f.chunk.js.map": "/static/js/3.68b6650f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.353fb4fb.chunk.css.map": "/static/css/2.353fb4fb.chunk.css.map",
+    "static/css/main.f4a26ed4.chunk.css.map": "/static/css/main.f4a26ed4.chunk.css.map",
+    "static/js/2.541cf760.chunk.js.LICENSE.txt": "/static/js/2.541cf760.chunk.js.LICENSE.txt",
+    "static/media/CV of Sumon Biswas.6a80271b.pdf": "/static/media/CV of Sumon Biswas.6a80271b.pdf",
+    "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/static/media/avatar.5852f40f.svg",
+    "static/media/bdbuddy.81a2681f.jpg": "/static/media/bdbuddy.81a2681f.jpg",
+    "static/media/bincal.8ed5c680.jpg": "/static/media/bincal.8ed5c680.jpg",
+    "static/media/style.css": "/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/static/media/home-main.541f8179.svg",
+    "static/media/messenger.faf4114d.png": "/static/media/messenger.faf4114d.png",
+    "static/media/shop.59355866.jpg": "/static/media/shop.59355866.jpg",
+    "static/media/tour.40f0bbae.jpg": "/static/media/tour.40f0bbae.jpg",
+    "static/media/url.1c5108ee.jpg": "/static/media/url.1c5108ee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.714ae579.js",
+    "static/css/2.353fb4fb.chunk.css",
+    "static/js/2.541cf760.chunk.js",
+    "static/css/main.f4a26ed4.chunk.css",
+    "static/js/main.2830e9f7.chunk.js"
+  ]
+}
